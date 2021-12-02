@@ -24,7 +24,7 @@ export default class  Footer extends Component {
 
      
       <a href=" https://www.facebook.com/profile.php?id=100075180601311" 
-       target="_blank" rel="">
+       rel="">
       <FaFacebookF  className="increaseSize"/> </a>
       <span className="tenpxwidth" >  </span> 
 

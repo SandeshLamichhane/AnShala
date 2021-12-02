@@ -9,15 +9,20 @@
      render() {
          return (
              <div className="ContactDiv">
+               
+             
+              <div className=" row">
+                  <div className="col-md-4 col-sm-0">
+                    </div>
+
+                
+                <div className="col-md-8 col-centered">
                 <h3 className ="contactheader">
-                    सेवा - सम्पर्क  
+                    हामीलाई फोन नम्बरबाट पनि अर्डर गर्न सक्नुहुन्छ 
                  </h3> 
                  <div>
-
-                 </div>
-                 <div>
                      <h4>
-                       <span className="PhoneName"><GoSquirrel />   फोन नं : </span>  ९८४४७३४४५८
+                       <span className="PhoneName"><GoSquirrel /> सेवा - सम्पर्क नं : </span>  ९८४४७३४४५८
                      </h4>
                  </div>
                  <div>
@@ -25,6 +30,8 @@
                          <span className="PhoneName"><GoMail /> ईमेल : </span>  slc4473@gmail.com
                      </h4>
                  </div>
+                 </div>
+                </div>
                  
 
              </div>

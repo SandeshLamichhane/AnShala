@@ -8,7 +8,7 @@
 import HappyCust  from './Component/HappyCustomer/happycustomer';
 import Footer from './Component/Footer/Footer';
 import Contact from './Component/contact/contact';
-import React, { Component } from 'react'
+import React from 'react'
 
    function App() {
   return (
