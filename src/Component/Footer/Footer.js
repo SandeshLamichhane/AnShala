@@ -32,7 +32,6 @@ export default class  Footer extends Component {
        target="_blank" rel="">
       <FaGit  className="increaseSize"/>
       </a>
-
       <span className="tenpxwidth" >   </span> 
 
       <a href="mailto:slc4473@gmail.com"> 
