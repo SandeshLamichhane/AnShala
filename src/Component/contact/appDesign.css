@@ -1,0 +1,31 @@
+ 
+.contactheader{
+    color: wheat;
+    text-align: center;
+    font-weight: 600;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ContactDiv{
+     padding: 3%;
+     background: linear-gradient(purple, indigo) ;
+     color: wheat;
+     font-family: 'Times New Roman', Times, serif;
+      
+    }
+.PhoneName{
+    font-weight: 600;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    width: 200px;
+
+
+
+
+    
+
+
+}

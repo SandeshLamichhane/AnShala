@@ -1,0 +1,17 @@
+.photo {
+    height: 100px;
+    width: 300px;
+    text-align: center;
+  }
+  .app{
+    background-image: linear-gradient(purple, indigo);
+    padding: 6%;
+    
+  }
+  .dappheading{
+    text-align: center;
+    color:white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 400;
+    padding-bottom: 30px;
+  }

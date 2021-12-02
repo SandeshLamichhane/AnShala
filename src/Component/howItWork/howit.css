@@ -1,0 +1,59 @@
+.howitback{
+   padding-top: 10%;
+   padding-left: 3%;
+   padding-right: 3%;
+   padding-bottom: 5%;
+   border: 2px solid whitesmoke;
+   border-radius: 5px;
+
+     
+    background-color:  indigo
+}
+.card-group{
+    background-color: rebeccapurple;
+ 
+}
+.card{
+    background-color: indigo;
+    padding: 2%
+
+}
+.card-body{
+    text-align: center;
+}
+
+.howittitle{
+    font-family: fantasy;
+    text-align: center;
+    color: wheat;
+    font-weight: 700;
+    
+    
+}
+.howitimage{
+    
+    height: 350px;
+    align-content: center;
+}
+.howitsubtitle{
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-family: inherit;
+    font-weight: 600;
+
+}
+.card-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing:  1.5px;
+    word-spacing: 5px;
+    font-size: 20px;
+     font-weight: 400;
+     line-height: 30px;
+     color: yellow;
+     text-align: center;
+    
+  text-justify: inter-word;
+    
+}

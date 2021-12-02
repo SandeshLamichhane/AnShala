@@ -1,0 +1,94 @@
+   .flexbox{
+  display:flex;
+  flex-flow: row wrap;
+  color: white;
+  background-color: indigo;
+  padding: 3%;
+   }
+   .left{
+       padding: 10%;
+       border-radius: 10%;
+      
+       background: linear-gradient(rgb(248, 49, 248),rgb(114, 46, 114) );
+   }
+   .right{
+       padding: 10%;
+   }
+   .center{
+       padding: 10%;
+   }
+   .menu {
+    font-family:arial;
+    color:#000000;
+    font-size:12px;
+    text-align: left;
+    margin-top:35px;
+    }
+    
+    .custReview{
+        background-image: 
+                linear-gradient(to bottom right,  rgb(134, 93, 15), purple);
+        padding: 6%;
+        color: white;
+         letter-spacing: .9px;
+        line-height: 25px;
+        border-radius:  20px;
+        box-shadow: 2px 2px 2px   orange;
+        margin-top: 5%;
+        color: honeydew;
+
+
+    }
+    .custComment{
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    line-height: 44px;
+    font-weight: 600;
+    color: wheat;
+    word-spacing: 4px;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 1.2;
+    color: yellow;
+
+    }
+    .certainheight{
+        height: 35px;
+    }
+
+ .rounded-circle{
+     height: 150px;
+     width: 150px;
+      
+ }
+ .miniheight{
+     height: 27px;
+ }
+ .reviewer{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     letter-spacing: normal;
+     color: white;
+ }
+ .address{
+     text-indent: 10%;
+     font-size: 15px;
+     padding-left: 4%;
+     color: white;
+     font-weight: 600;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     letter-spacing: 1.1px;
+     color: greenyellow;
+
+ }
+ .customerDIv{
+     padding: 3%;
+     background-color: indigo;
+ }
+
+ .custhead{
+     margin-top: 40px;
+     text-align: center;
+     color: wheat;
+     letter-spacing: 1.2;
+     font-weight: 800;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }

@@ -1,25 +1,35 @@
-import logo from './logo.svg';
-import './App.css';
+ import './App.css';
+ import  '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+ import  '../node_modules/bootstrap/dist/js/bootstrap.min.js';
+  import BrandName from './Component/title/brandName';
+ import Dicon from './Component/download/dicon';
+ import ServiceAreas  from './Component/Sevicearea/area';
+ import Howit from './Component/howItWork/howit';
+import HappyCust  from './Component/HappyCustomer/happycustomer';
+import Footer from './Component/Footer/Footer';
+import Contact from './Component/contact/contact';
+import React, { Component } from 'react'
 
-function App() {
+   function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <div>
+    
+    <BrandName />
+    <Dicon />
+    <ServiceAreas />
+    <Howit />
+    <HappyCust />
+    <Contact />
+    <Footer />
+  
+   
+  
+</div>
+    
+    
+
   );
 }
 
 export default App;
+ 
